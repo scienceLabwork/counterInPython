@@ -8,7 +8,7 @@ A simple counter in python design by Rudra Shah.
 
 # Help
 press enter keyto start counting` 1 `
-`r -- reset`
+`r -- reset`\n
 `s -- stop`
 `h -- help`
 # contact me
