@@ -7,10 +7,10 @@ A simple counter in python design by Rudra Shah.
 `git clone https://github.com/scienceLabwork/counterInPython`
 
 # Help
-### press enter key to start counting ` 1 2 3 ... `
-### `r -- reset`
-### `s -- stop`
-### `h -- help`
+##### press enter key to start counting ` 1 2 3 ... `
+##### `r -- reset`
+##### `s -- stop`
+##### `h -- help`
 # contact me
 Instagram- https://www.instagram.com/rudra_shah_/ (Dm me on instagram if you want to contact me)
 
