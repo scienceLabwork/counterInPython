@@ -17,4 +17,4 @@ Instagram- https://www.instagram.com/rudra_shah_/ (Dm me on instagram if you wan
 # My webpage
 [sciencelabwork](http://www.sciencelabwork.cf)
 
-"All rights reserved & logo shound be remade without prior permission" 
+"All rights reserved & logo shouldn't be remade without prior permission"
